@@ -1,0 +1,187 @@
+Country_std,Year,Total_Paper_Count,share_percent
+United States,2014,398,19.06
+China,2014,367,17.58
+Iran,2014,127,6.08
+India,2014,98,4.69
+Germany,2014,86,4.12
+United Kingdom,2014,76,3.64
+Spain,2014,70,3.35
+Canada,2014,66,3.16
+Australia,2014,63,3.02
+Malaysia,2014,50,2.39
+France,2014,47,2.25
+Turkey,2014,47,2.25
+Italy,2014,46,2.2
+Brazil,2014,44,2.11
+Japan,2014,40,1.92
+Belgium,2014,32,1.53
+Poland,2014,30,1.44
+Switzerland,2014,30,1.44
+South Africa,2014,25,1.2
+South Korea,2014,24,1.15
+Portugal,2014,22,1.05
+Greece,2014,19,0.91
+Korea,2014,19,0.91
+Sweden,2014,15,0.72
+Pakistan,2014,14,0.67
+Israel,2014,13,0.62
+Netherlands,2014,13,0.62
+Russia,2014,12,0.57
+Serbia,2014,12,0.57
+Finland,2014,11,0.53
+Singapore,2014,11,0.53
+Slovenia,2014,11,0.53
+Czech Republic,2014,10,0.48
+Mexico,2014,10,0.48
+Denmark,2014,9,0.43
+Saudi Arabia,2014,9,0.43
+Chile,2014,8,0.38
+Egypt,2014,8,0.38
+New Zealand,2014,8,0.38
+Romania,2014,7,0.34
+Algeria,2014,6,0.29
+Austria,2014,6,0.29
+Norway,2014,6,0.29
+Thailand,2014,6,0.29
+Argentina,2014,5,0.24
+Croatia,2014,4,0.19
+Hungary,2014,4,0.19
+Iraq,2014,4,0.19
+Ireland,2014,4,0.19
+Nigeria,2014,3,0.14
+United Arab Emirates,2014,3,0.14
+Bulgaria,2014,2,0.1
+Colombia,2014,2,0.1
+Cuba,2014,2,0.1
+Estonia,2014,2,0.1
+Ghana,2014,2,0.1
+Iceland,2014,2,0.1
+Kenya,2014,2,0.1
+Ukraine,2014,2,0.1
+Bangladesh,2014,1,0.05
+Botswana,2014,1,0.05
+Cameroon,2014,1,0.05
+Costa Rica,2014,1,0.05
+Ethiopia,2014,1,0.05
+Indonesia,2014,1,0.05
+Kuwait,2014,1,0.05
+Lebanon,2014,1,0.05
+Malawi,2014,1,0.05
+Mali,2014,1,0.05
+Montenegro,2014,1,0.05
+Sri Lanka,2014,1,0.05
+Sudan,2014,1,0.05
+Vietnam,2014,1,0.05
+China,2023,8310,39.05
+United States,2023,3141,14.76
+India,2023,1255,5.9
+Germany,2023,666,3.13
+United Kingdom,2023,521,2.45
+Italy,2023,510,2.4
+Iran,2023,456,2.14
+Korea,2023,440,2.07
+Canada,2023,390,1.83
+Japan,2023,371,1.74
+Spain,2023,337,1.58
+Australia,2023,331,1.56
+France,2023,328,1.54
+Saudi Arabia,2023,274,1.29
+Brazil,2023,253,1.19
+Switzerland,2023,219,1.03
+South Korea,2023,213,1
+Russia,2023,167,0.78
+Netherlands,2023,163,0.77
+Poland,2023,145,0.68
+Malaysia,2023,134,0.63
+Egypt,2023,123,0.58
+Pakistan,2023,123,0.58
+Portugal,2023,109,0.51
+Greece,2023,104,0.49
+Sweden,2023,104,0.49
+Singapore,2023,103,0.48
+Israel,2023,95,0.45
+Belgium,2023,94,0.44
+Austria,2023,85,0.4
+Norway,2023,86,0.4
+Denmark,2023,82,0.39
+South Africa,2023,79,0.37
+Thailand,2023,77,0.36
+Turkey,2023,75,0.35
+Vietnam,2023,74,0.35
+Mexico,2023,70,0.33
+Finland,2023,57,0.27
+Hungary,2023,58,0.27
+Morocco,2023,55,0.26
+Bangladesh,2023,54,0.25
+United Arab Emirates,2023,54,0.25
+Czech Republic,2023,51,0.24
+Ireland,2023,52,0.24
+Algeria,2023,50,0.23
+Romania,2023,47,0.22
+Ethiopia,2023,43,0.2
+Chile,2023,39,0.18
+Indonesia,2023,39,0.18
+Colombia,2023,36,0.17
+New Zealand,2023,37,0.17
+Nigeria,2023,36,0.17
+Iraq,2023,34,0.16
+Serbia,2023,34,0.16
+Argentina,2023,31,0.15
+Qatar,2023,26,0.12
+Croatia,2023,24,0.11
+Slovenia,2023,23,0.11
+Tunisia,2023,24,0.11
+Jordan,2023,22,0.1
+Ghana,2023,14,0.07
+Kuwait,2023,14,0.07
+Philippines,2023,15,0.07
+Kazakhstan,2023,13,0.06
+Oman,2023,13,0.06
+Armenia,2023,10,0.05
+Lithuania,2023,10,0.05
+Bulgaria,2023,9,0.04
+Cyprus,2023,9,0.04
+Estonia,2023,9,0.04
+Kenya,2023,9,0.04
+Lebanon,2023,9,0.04
+Peru,2023,8,0.04
+Ecuador,2023,6,0.03
+Luxembourg,2023,7,0.03
+Ukraine,2023,7,0.03
+Uruguay,2023,6,0.03
+Cameroon,2023,5,0.02
+Costa Rica,2023,4,0.02
+Malta,2023,4,0.02
+Myanmar,2023,4,0.02
+Nepal,2023,5,0.02
+Tanzania,2023,4,0.02
+Angola,2023,2,0.01
+Bahrain,2023,3,0.01
+Belarus,2023,3,0.01
+Benin,2023,2,0.01
+Botswana,2023,3,0.01
+Iceland,2023,2,0.01
+Latvia,2023,3,0.01
+Moldova,2023,2,0.01
+Montenegro,2023,2,0.01
+Sri Lanka,2023,3,0.01
+Suriname,2023,2,0.01
+Uganda,2023,3,0.01
+Uzbekistan,2023,3,0.01
+Zambia,2023,2,0.01
+Zimbabwe,2023,3,0.01
+Albania,2023,1,0
+Azerbaijan,2023,1,0
+Cambodia,2023,1,0
+Georgia,2023,1,0
+Guinea,2023,1,0
+Mali,2023,1,0
+Mauritius,2023,1,0
+Mozambique,2023,1,0
+Namibia,2023,1,0
+North Macedonia,2023,1,0
+Rwanda,2023,1,0
+Senegal,2023,1,0
+Sudan,2023,1,0
+Togo,2023,1,0
+Turkmenistan,2023,1,0

@@ -1,0 +1,623 @@
+Country,Year,gini_pub,n_disciplines,Continent,Category,Income group
+Algeria,2017,0.3,5,Africa,Developing,Upper middle income
+Algeria,2020,0.340740741,5,Africa,Developing,Upper middle income
+Algeria,2021,0.386666667,5,Africa,Developing,Upper middle income
+Algeria,2022,0.533333333,5,Africa,Developing,Upper middle income
+Algeria,2023,0.368,5,Africa,Developing,Upper middle income
+Algeria,2024,0.309433962,5,Africa,Developing,Upper middle income
+Argentina,2020,0.42962963,5,South America,Developing,Upper middle income
+Argentina,2021,0.233333333,5,South America,Developing,Upper middle income
+Argentina,2022,0.272,5,South America,Developing,Upper middle income
+Argentina,2023,0.309677419,5,South America,Developing,Upper middle income
+Australia,2004,0.452173913,5,Oceania,Developed,High income
+Australia,2009,0.412121212,5,Oceania,Developed,High income
+Australia,2012,0.411764706,5,Oceania,Developed,High income
+Australia,2015,0.575438596,5,Oceania,Developed,High income
+Australia,2016,0.507042254,5,Oceania,Developed,High income
+Australia,2017,0.468421053,5,Oceania,Developed,High income
+Australia,2018,0.524137931,5,Oceania,Developed,High income
+Australia,2019,0.409580838,5,Oceania,Developed,High income
+Australia,2020,0.40754717,5,Oceania,Developed,High income
+Australia,2021,0.425263158,5,Oceania,Developed,High income
+Australia,2022,0.325075529,5,Oceania,Developed,High income
+Australia,2023,0.370996979,5,Oceania,Developed,High income
+Australia,2024,0.294736842,5,Oceania,Developed,High income
+Austria,2004,0.28,5,Europe,Developed,High income
+Austria,2012,0.228571429,5,Europe,Developed,High income
+Austria,2013,0.16,5,Europe,Developed,High income
+Austria,2015,0.215384615,5,Europe,Developed,High income
+Austria,2019,0.4,5,Europe,Developed,High income
+Austria,2020,0.220408163,5,Europe,Developed,High income
+Austria,2021,0.223255814,5,Europe,Developed,High income
+Austria,2022,0.212345679,5,Europe,Developed,High income
+Austria,2023,0.169411765,5,Europe,Developed,High income
+Austria,2024,0.176,5,Europe,Developed,High income
+Bangladesh,2021,0.504347826,5,Asia,Developing,Lower middle income
+Bangladesh,2022,0.426086957,5,Asia,Developing,Lower middle income
+Bangladesh,2023,0.42962963,5,Asia,Developing,Lower middle income
+Bangladesh,2024,0.424615385,5,Asia,Developing,Lower middle income
+Belgium,2005,0.133333333,5,Europe,Developed,High income
+Belgium,2011,0.329411765,5,Europe,Developed,High income
+Belgium,2012,0.376470588,5,Europe,Developed,High income
+Belgium,2013,0.276923077,5,Europe,Developed,High income
+Belgium,2014,0.325,5,Europe,Developed,High income
+Belgium,2015,0.378947368,5,Europe,Developed,High income
+Belgium,2017,0.472727273,5,Europe,Developed,High income
+Belgium,2018,0.385714286,5,Europe,Developed,High income
+Belgium,2019,0.341176471,5,Europe,Developed,High income
+Belgium,2021,0.254545455,5,Europe,Developed,High income
+Belgium,2022,0.24,5,Europe,Developed,High income
+Belgium,2023,0.187234043,5,Europe,Developed,High income
+Belgium,2024,0.217821782,5,Europe,Developed,High income
+Brazil,2008,0.496,5,South America,Developing,Upper middle income
+Brazil,2011,0.335483871,5,South America,Developing,Upper middle income
+Brazil,2012,0.31,5,South America,Developing,Upper middle income
+Brazil,2013,0.485714286,5,South America,Developing,Upper middle income
+Brazil,2014,0.545454545,5,South America,Developing,Upper middle income
+Brazil,2015,0.556521739,5,South America,Developing,Upper middle income
+Brazil,2016,0.519298246,5,South America,Developing,Upper middle income
+Brazil,2017,0.495522388,5,South America,Developing,Upper middle income
+Brazil,2018,0.543478261,5,South America,Developing,Upper middle income
+Brazil,2019,0.539393939,5,South America,Developing,Upper middle income
+Brazil,2020,0.480434783,5,South America,Developing,Upper middle income
+Brazil,2021,0.474900398,5,South America,Developing,Upper middle income
+Brazil,2022,0.396911197,5,South America,Developing,Upper middle income
+Brazil,2023,0.381027668,5,South America,Developing,Upper middle income
+Brazil,2024,0.330599369,5,South America,Developing,Upper middle income
+Bulgaria,2023,0.222222222,5,Europe,Developing,High income
+Cameroon,2024,0.25,5,Africa,Developing,Lower middle income
+Canada,2000,0.488888889,5,North America,Developed,High income
+Canada,2001,0.386666667,5,North America,Developed,High income
+Canada,2002,0.503703704,5,North America,Developed,High income
+Canada,2003,0.492307692,5,North America,Developed,High income
+Canada,2006,0.455813953,5,North America,Developed,High income
+Canada,2007,0.425806452,5,North America,Developed,High income
+Canada,2008,0.541176471,5,North America,Developed,High income
+Canada,2009,0.485106383,5,North America,Developed,High income
+Canada,2010,0.530232558,5,North America,Developed,High income
+Canada,2011,0.372093023,5,North America,Developed,High income
+Canada,2012,0.55,5,North America,Developed,High income
+Canada,2013,0.488888889,5,North America,Developed,High income
+Canada,2014,0.472727273,5,North America,Developed,High income
+Canada,2015,0.529230769,5,North America,Developed,High income
+Canada,2016,0.49382716,5,North America,Developed,High income
+Canada,2017,0.565,5,North America,Developed,High income
+Canada,2018,0.427906977,5,North America,Developed,High income
+Canada,2019,0.323699422,5,North America,Developed,High income
+Canada,2020,0.380350877,5,North America,Developed,High income
+Canada,2021,0.371891892,5,North America,Developed,High income
+Canada,2022,0.339364303,5,North America,Developed,High income
+Canada,2023,0.289230769,5,North America,Developed,High income
+Canada,2024,0.276524954,5,North America,Developed,High income
+Chile,2020,0.338461538,5,South America,Developing,High income
+Chile,2021,0.413333333,5,South America,Developing,High income
+Chile,2022,0.466666667,5,South America,Developing,High income
+Chile,2023,0.348717949,5,South America,Developing,High income
+Chile,2024,0.174193548,5,South America,Developing,High income
+China,1999,0.258823529,5,Asia,Developing,Upper middle income
+China,2001,0.452173913,5,Asia,Developing,Upper middle income
+China,2002,0.525,5,Asia,Developing,Upper middle income
+China,2003,0.309433962,5,Asia,Developing,Upper middle income
+China,2004,0.35,5,Asia,Developing,Upper middle income
+China,2006,0.293577982,5,Asia,Developing,Upper middle income
+China,2007,0.332352941,5,Asia,Developing,Upper middle income
+China,2008,0.359036145,5,Asia,Developing,Upper middle income
+China,2009,0.32460733,5,Asia,Developing,Upper middle income
+China,2010,0.297029703,5,Asia,Developing,Upper middle income
+China,2011,0.36101083,5,Asia,Developing,Upper middle income
+China,2012,0.37254902,5,Asia,Developing,Upper middle income
+China,2013,0.435064935,5,Asia,Developing,Upper middle income
+China,2014,0.502452316,5,Asia,Developing,Upper middle income
+China,2015,0.482672234,5,Asia,Developing,Upper middle income
+China,2016,0.468196721,5,Asia,Developing,Upper middle income
+China,2017,0.471168831,5,Asia,Developing,Upper middle income
+China,2018,0.503237095,5,Asia,Developing,Upper middle income
+China,2019,0.448871767,5,Asia,Developing,Upper middle income
+China,2020,0.419413256,5,Asia,Developing,Upper middle income
+China,2021,0.428521566,5,Asia,Developing,Upper middle income
+China,2022,0.425133373,5,Asia,Developing,Upper middle income
+China,2023,0.399326113,5,Asia,Developing,Upper middle income
+China,2024,0.368616217,5,Asia,Developing,Upper middle income
+Colombia,2020,0.55483871,5,South America,Developing,Upper middle income
+Colombia,2021,0.55,5,South America,Developing,Upper middle income
+Colombia,2022,0.496551724,5,South America,Developing,Upper middle income
+Colombia,2023,0.333333333,5,South America,Developing,Upper middle income
+Colombia,2024,0.341818182,5,South America,Developing,Upper middle income
+Croatia,2021,0.352941176,5,Europe,Developing,High income
+Croatia,2023,0.283333333,5,Europe,Developing,High income
+Croatia,2024,0.415384615,5,Europe,Developing,High income
+Cyprus,2022,0.3,5,Asia,Developing,High income
+Czech Republic,2021,0.351515152,5,Europe,Developing,High income
+Czech Republic,2022,0.354285714,5,Europe,Developing,High income
+Czech Republic,2023,0.329411765,5,Europe,Developing,High income
+Czech Republic,2024,0.187234043,5,Europe,Developing,High income
+Denmark,2020,0.194871795,5,Europe,Developed,High income
+Denmark,2021,0.289361702,5,Europe,Developed,High income
+Denmark,2022,0.266666667,5,Europe,Developed,High income
+Denmark,2023,0.27804878,5,Europe,Developed,High income
+Denmark,2024,0.234042553,5,Europe,Developed,High income
+Ecuador,2024,0.36,5,South America,Developing,Upper middle income
+Egypt,2019,0.325925926,5,Africa,Developing,Lower middle income
+Egypt,2020,0.342857143,5,Africa,Developing,Lower middle income
+Egypt,2021,0.433333333,5,Africa,Developing,Lower middle income
+Egypt,2022,0.431578947,5,Africa,Developing,Lower middle income
+Egypt,2023,0.416260163,5,Africa,Developing,Lower middle income
+Egypt,2024,0.403418803,5,Africa,Developing,Lower middle income
+Estonia,2021,0.228571429,5,Europe,Developing,High income
+Estonia,2023,0.311111111,5,Europe,Developing,High income
+Estonia,2024,0.311111111,5,Europe,Developing,High income
+Ethiopia,2022,0.545454545,5,Africa,Developing,Low income
+Ethiopia,2023,0.641860465,5,Africa,Developing,Low income
+Ethiopia,2024,0.533333333,5,Africa,Developing,Low income
+Finland,2002,0.25,5,Europe,Developed,High income
+Finland,2008,0.25,5,Europe,Developed,High income
+Finland,2019,0.44137931,5,Europe,Developed,High income
+Finland,2020,0.433333333,5,Europe,Developed,High income
+Finland,2021,0.24,5,Europe,Developed,High income
+Finland,2022,0.411267606,5,Europe,Developed,High income
+Finland,2023,0.287719298,5,Europe,Developed,High income
+Finland,2024,0.224,5,Europe,Developed,High income
+France,1998,0.447058824,5,Europe,Developed,High income
+France,1999,0.373333333,5,Europe,Developed,High income
+France,2003,0.48,5,Europe,Developed,High income
+France,2006,0.285714286,5,Europe,Developed,High income
+France,2007,0.333333333,5,Europe,Developed,High income
+France,2009,0.42962963,5,Europe,Developed,High income
+France,2010,0.292682927,5,Europe,Developed,High income
+France,2011,0.460869565,5,Europe,Developed,High income
+France,2012,0.362790698,5,Europe,Developed,High income
+France,2013,0.364444444,5,Europe,Developed,High income
+France,2014,0.365957447,5,Europe,Developed,High income
+France,2015,0.322580645,5,Europe,Developed,High income
+France,2016,0.328571429,5,Europe,Developed,High income
+France,2017,0.412121212,5,Europe,Developed,High income
+France,2018,0.348837209,5,Europe,Developed,High income
+France,2019,0.321259843,5,Europe,Developed,High income
+France,2020,0.298305085,5,Europe,Developed,High income
+France,2021,0.255686275,5,Europe,Developed,High income
+France,2022,0.246263345,5,Europe,Developed,High income
+France,2023,0.226829268,5,Europe,Developed,High income
+France,2024,0.227792916,5,Europe,Developed,High income
+Germany,1998,0.316666667,5,Europe,Developed,High income
+Germany,1999,0.371428571,5,Europe,Developed,High income
+Germany,2000,0.382608696,5,Europe,Developed,High income
+Germany,2001,0.361904762,5,Europe,Developed,High income
+Germany,2002,0.4,5,Europe,Developed,High income
+Germany,2003,0.341176471,5,Europe,Developed,High income
+Germany,2004,0.4,5,Europe,Developed,High income
+Germany,2005,0.245454545,5,Europe,Developed,High income
+Germany,2006,0.343859649,5,Europe,Developed,High income
+Germany,2007,0.428169014,5,Europe,Developed,High income
+Germany,2008,0.392,5,Europe,Developed,High income
+Germany,2009,0.441176471,5,Europe,Developed,High income
+Germany,2010,0.338461538,5,Europe,Developed,High income
+Germany,2011,0.289473684,5,Europe,Developed,High income
+Germany,2012,0.404938272,5,Europe,Developed,High income
+Germany,2013,0.405263158,5,Europe,Developed,High income
+Germany,2014,0.441860465,5,Europe,Developed,High income
+Germany,2015,0.47826087,5,Europe,Developed,High income
+Germany,2016,0.414159292,5,Europe,Developed,High income
+Germany,2017,0.366153846,5,Europe,Developed,High income
+Germany,2018,0.37044335,5,Europe,Developed,High income
+Germany,2019,0.272,5,Europe,Developed,High income
+Germany,2020,0.207874016,5,Europe,Developed,High income
+Germany,2021,0.212546125,5,Europe,Developed,High income
+Germany,2022,0.192,5,Europe,Developed,High income
+Germany,2023,0.171771772,5,Europe,Developed,High income
+Germany,2024,0.182857143,5,Europe,Developed,High income
+Ghana,2023,0.485714286,5,Africa,Developing,Lower middle income
+Greece,2005,0.181818182,5,Europe,Developing,High income
+Greece,2007,0.186666667,5,Europe,Developing,High income
+Greece,2008,0.4,5,Europe,Developing,High income
+Greece,2010,0.228571429,5,Europe,Developing,High income
+Greece,2014,0.4,5,Europe,Developing,High income
+Greece,2015,0.294736842,5,Europe,Developing,High income
+Greece,2018,0.592592593,5,Europe,Developing,High income
+Greece,2020,0.33442623,5,Europe,Developing,High income
+Greece,2021,0.32,5,Europe,Developing,High income
+Greece,2022,0.333333333,5,Europe,Developing,High income
+Greece,2023,0.407692308,5,Europe,Developing,High income
+Greece,2024,0.254867257,5,Europe,Developing,High income
+Hungary,2006,0.171428571,5,Europe,Developing,High income
+Hungary,2020,0.290909091,5,Europe,Developing,High income
+Hungary,2022,0.322580645,5,Europe,Developing,High income
+Hungary,2023,0.448275862,5,Europe,Developing,High income
+Hungary,2024,0.38,5,Europe,Developing,High income
+India,2003,0.544,5,Asia,Developing,Lower middle income
+India,2004,0.63030303,5,Asia,Developing,Lower middle income
+India,2005,0.454901961,5,Asia,Developing,Lower middle income
+India,2006,0.445454545,5,Asia,Developing,Lower middle income
+India,2007,0.506666667,5,Asia,Developing,Lower middle income
+India,2008,0.581818182,5,Asia,Developing,Lower middle income
+India,2009,0.569863014,5,Asia,Developing,Lower middle income
+India,2010,0.53,5,Asia,Developing,Lower middle income
+India,2011,0.417647059,5,Asia,Developing,Lower middle income
+India,2012,0.442857143,5,Asia,Developing,Lower middle income
+India,2014,0.493877551,5,Asia,Developing,Lower middle income
+India,2015,0.408275862,5,Asia,Developing,Lower middle income
+India,2016,0.424427481,5,Asia,Developing,Lower middle income
+India,2017,0.421428571,5,Asia,Developing,Lower middle income
+India,2018,0.35483871,5,Asia,Developing,Lower middle income
+India,2019,0.42238806,5,Asia,Developing,Lower middle income
+India,2020,0.415720524,5,Asia,Developing,Lower middle income
+India,2021,0.339599384,5,Asia,Developing,Lower middle income
+India,2022,0.352683897,5,Asia,Developing,Lower middle income
+India,2023,0.286533865,5,Asia,Developing,Lower middle income
+India,2024,0.292998205,5,Asia,Developing,Lower middle income
+Indonesia,2022,0.375757576,5,Asia,Developing,Upper middle income
+Indonesia,2024,0.442553191,5,Asia,Developing,Upper middle income
+Iran,2010,0.44516129,5,Asia,Developing,Upper middle income
+Iran,2011,0.602739726,5,Asia,Developing,Upper middle income
+Iran,2012,0.483636364,5,Asia,Developing,Upper middle income
+Iran,2013,0.464233577,5,Asia,Developing,Upper middle income
+Iran,2014,0.503937008,5,Asia,Developing,Upper middle income
+Iran,2015,0.48707483,5,Asia,Developing,Upper middle income
+Iran,2016,0.567875648,5,Asia,Developing,Upper middle income
+Iran,2017,0.572477064,5,Asia,Developing,Upper middle income
+Iran,2018,0.56492891,5,Asia,Developing,Upper middle income
+Iran,2019,0.543944637,5,Asia,Developing,Upper middle income
+Iran,2020,0.536723164,5,Asia,Developing,Upper middle income
+Iran,2021,0.556218905,5,Asia,Developing,Upper middle income
+Iran,2022,0.531753555,5,Asia,Developing,Upper middle income
+Iran,2023,0.451754386,5,Asia,Developing,Upper middle income
+Iran,2024,0.424750499,5,Asia,Developing,Upper middle income
+Iraq,2021,0.605714286,5,Asia,Developing,Upper middle income
+Iraq,2022,0.511111111,5,Asia,Developing,Upper middle income
+Iraq,2023,0.552941176,5,Asia,Developing,Upper middle income
+Iraq,2024,0.464864865,5,Asia,Developing,Upper middle income
+Ireland,2018,0.133333333,5,Europe,Developed,High income
+Ireland,2019,0.371428571,5,Europe,Developed,High income
+Ireland,2020,0.365217391,5,Europe,Developed,High income
+Ireland,2021,0.206896552,5,Europe,Developed,High income
+Ireland,2022,0.364705882,5,Europe,Developed,High income
+Ireland,2023,0.283333333,5,Europe,Developed,High income
+Ireland,2024,0.385964912,5,Europe,Developed,High income
+Israel,2015,0.4,5,Asia,Developed,High income
+Israel,2020,0.258823529,5,Asia,Developed,High income
+Israel,2021,0.263829787,5,Asia,Developed,High income
+Israel,2022,0.324137931,5,Asia,Developed,High income
+Israel,2023,0.176842105,5,Asia,Developed,High income
+Israel,2024,0.311627907,5,Asia,Developed,High income
+Italy,1998,0.34,5,Europe,Developed,High income
+Italy,1999,0.16,5,Europe,Developed,High income
+Italy,2000,0.166666667,5,Europe,Developed,High income
+Italy,2001,0.373333333,5,Europe,Developed,High income
+Italy,2003,0.215384615,5,Europe,Developed,High income
+Italy,2004,0.210526316,5,Europe,Developed,High income
+Italy,2006,0.263636364,5,Europe,Developed,High income
+Italy,2007,0.269767442,5,Europe,Developed,High income
+Italy,2009,0.323809524,5,Europe,Developed,High income
+Italy,2010,0.36097561,5,Europe,Developed,High income
+Italy,2011,0.314285714,5,Europe,Developed,High income
+Italy,2012,0.391111111,5,Europe,Developed,High income
+Italy,2013,0.352941176,5,Europe,Developed,High income
+Italy,2014,0.347826087,5,Europe,Developed,High income
+Italy,2015,0.366197183,5,Europe,Developed,High income
+Italy,2016,0.464705882,5,Europe,Developed,High income
+Italy,2017,0.386666667,5,Europe,Developed,High income
+Italy,2018,0.356,5,Europe,Developed,High income
+Italy,2019,0.308474576,5,Europe,Developed,High income
+Italy,2020,0.289328063,5,Europe,Developed,High income
+Italy,2021,0.266237942,5,Europe,Developed,High income
+Italy,2022,0.293723849,5,Europe,Developed,High income
+Italy,2023,0.257254902,5,Europe,Developed,High income
+Italy,2024,0.256774194,5,Europe,Developed,High income
+Japan,2000,0.328571429,5,Asia,Developed,High income
+Japan,2001,0.482758621,5,Asia,Developed,High income
+Japan,2002,0.435555556,5,Asia,Developed,High income
+Japan,2004,0.504761905,5,Asia,Developed,High income
+Japan,2005,0.471111111,5,Asia,Developed,High income
+Japan,2006,0.370909091,5,Asia,Developed,High income
+Japan,2007,0.437037037,5,Asia,Developed,High income
+Japan,2008,0.323404255,5,Asia,Developed,High income
+Japan,2009,0.254545455,5,Asia,Developed,High income
+Japan,2011,0.33015873,5,Asia,Developed,High income
+Japan,2012,0.263829787,5,Asia,Developed,High income
+Japan,2013,0.458536585,5,Asia,Developed,High income
+Japan,2014,0.31,5,Asia,Developed,High income
+Japan,2015,0.376923077,5,Asia,Developed,High income
+Japan,2016,0.334883721,5,Asia,Developed,High income
+Japan,2017,0.266666667,5,Asia,Developed,High income
+Japan,2018,0.115789474,5,Asia,Developed,High income
+Japan,2019,0.196178344,5,Asia,Developed,High income
+Japan,2020,0.163265306,5,Asia,Developed,High income
+Japan,2021,0.201438849,5,Asia,Developed,High income
+Japan,2022,0.182686567,5,Asia,Developed,High income
+Japan,2023,0.162803235,5,Asia,Developed,High income
+Japan,2024,0.152711497,5,Asia,Developed,High income
+Jordan,2022,0.4,5,Asia,Developing,Lower middle income
+Jordan,2024,0.3,5,Asia,Developing,Lower middle income
+Kazakhstan,2023,0.369230769,5,Asia,Developing,Upper middle income
+Kenya,2024,0.428571429,5,Africa,Developing,Lower middle income
+Korea,1998,0,5,Asia,Developed,High income
+Korea,2002,0.333333333,5,Asia,Developed,High income
+Korea,2007,0.426666667,5,Asia,Developed,High income
+Korea,2008,0.368,5,Asia,Developed,High income
+Korea,2009,0.35,5,Asia,Developed,High income
+Korea,2010,0.44137931,5,Asia,Developed,High income
+Korea,2011,0.363636364,5,Asia,Developed,High income
+Korea,2012,0.391489362,5,Asia,Developed,High income
+Korea,2013,0.494736842,5,Asia,Developed,High income
+Korea,2014,0.446511628,5,Asia,Developed,High income
+Korea,2016,0.450793651,5,Asia,Developed,High income
+Korea,2017,0.39,5,Asia,Developed,High income
+Korea,2018,0.389655172,5,Asia,Developed,High income
+Korea,2019,0.328795812,5,Asia,Developed,High income
+Korea,2020,0.298780488,5,Asia,Developed,High income
+Korea,2021,0.307542579,5,Asia,Developed,High income
+Korea,2022,0.304511278,5,Asia,Developed,High income
+Korea,2023,0.241104294,5,Asia,Developed,High income
+Korea,2024,0.21229611,5,Asia,Developed,High income
+Lithuania,2021,0.218181818,5,Europe,Developing,High income
+Lithuania,2023,0.36,5,Europe,Developing,High income
+Lithuania,2024,0.257142857,5,Europe,Developing,High income
+Luxembourg,2021,0.233333333,5,Europe,Developed,High income
+Luxembourg,2024,0.072727273,5,Europe,Developed,High income
+Malaysia,2013,0.536170213,5,Asia,Developing,Upper middle income
+Malaysia,2015,0.484615385,5,Asia,Developing,Upper middle income
+Malaysia,2016,0.484210526,5,Asia,Developing,Upper middle income
+Malaysia,2017,0.427586207,5,Asia,Developing,Upper middle income
+Malaysia,2018,0.457142857,5,Asia,Developing,Upper middle income
+Malaysia,2020,0.492753623,5,Asia,Developing,Upper middle income
+Malaysia,2021,0.4,5,Asia,Developing,Upper middle income
+Malaysia,2022,0.442253521,5,Asia,Developing,Upper middle income
+Malaysia,2023,0.411940299,5,Asia,Developing,Upper middle income
+Malaysia,2024,0.375193798,5,Asia,Developing,Upper middle income
+Mexico,2013,0.525,5,North America,Developing,Upper middle income
+Mexico,2014,0.16,5,North America,Developing,Upper middle income
+Mexico,2015,0.442105263,5,North America,Developing,Upper middle income
+Mexico,2016,0.333333333,5,North America,Developing,Upper middle income
+Mexico,2019,0.423529412,5,North America,Developing,Upper middle income
+Mexico,2020,0.383333333,5,North America,Developing,Upper middle income
+Mexico,2021,0.193333333,5,North America,Developing,Upper middle income
+Mexico,2022,0.202150538,5,North America,Developing,Upper middle income
+Mexico,2023,0.308571429,5,North America,Developing,Upper middle income
+Mexico,2024,0.214814815,5,North America,Developing,Upper middle income
+Morocco,2020,0.45,5,Africa,Developing,Lower middle income
+Morocco,2022,0.521212121,5,Africa,Developing,Lower middle income
+Morocco,2023,0.530909091,5,Africa,Developing,Lower middle income
+Morocco,2024,0.371428571,5,Africa,Developing,Lower middle income
+Nepal,2024,0.3,5,Asia,Developing,Lower middle income
+Netherlands,2005,0.15,5,Europe,Developed,High income
+Netherlands,2008,0.16,5,Europe,Developed,High income
+Netherlands,2009,0.373333333,5,Europe,Developed,High income
+Netherlands,2014,0.246153846,5,Europe,Developed,High income
+Netherlands,2015,0.426666667,5,Europe,Developed,High income
+Netherlands,2018,0.462745098,5,Europe,Developed,High income
+Netherlands,2019,0.327272727,5,Europe,Developed,High income
+Netherlands,2020,0.270707071,5,Europe,Developed,High income
+Netherlands,2021,0.34516129,5,Europe,Developed,High income
+Netherlands,2022,0.187586207,5,Europe,Developed,High income
+Netherlands,2023,0.247852761,5,Europe,Developed,High income
+Netherlands,2024,0.261306533,5,Europe,Developed,High income
+New Zealand,2021,0.379487179,5,Oceania,Developed,High income
+New Zealand,2022,0.4,5,Oceania,Developed,High income
+New Zealand,2023,0.291891892,5,Oceania,Developed,High income
+New Zealand,2024,0.424242424,5,Oceania,Developed,High income
+Nigeria,2022,0.448979592,5,Africa,Developing,Lower middle income
+Nigeria,2023,0.566666667,5,Africa,Developing,Lower middle income
+Nigeria,2024,0.373333333,5,Africa,Developing,Lower middle income
+Norway,2018,0.380952381,5,Europe,Developed,High income
+Norway,2020,0.141176471,5,Europe,Developed,High income
+Norway,2021,0.455172414,5,Europe,Developed,High income
+Norway,2022,0.294736842,5,Europe,Developed,High income
+Norway,2023,0.325581395,5,Europe,Developed,High income
+Norway,2024,0.287323944,5,Europe,Developed,High income
+Pakistan,2017,0.466666667,5,Asia,Developing,Lower middle income
+Pakistan,2018,0.443243243,5,Asia,Developing,Lower middle income
+Pakistan,2020,0.406557377,5,Asia,Developing,Lower middle income
+Pakistan,2021,0.352380952,5,Asia,Developing,Lower middle income
+Pakistan,2022,0.3,5,Asia,Developing,Lower middle income
+Pakistan,2023,0.338211382,5,Asia,Developing,Lower middle income
+Pakistan,2024,0.274285714,5,Asia,Developing,Lower middle income
+Philippines,2022,0.4,5,Asia,Developing,Lower middle income
+Philippines,2023,0.506666667,5,Asia,Developing,Lower middle income
+Philippines,2024,0.276923077,5,Asia,Developing,Lower middle income
+Poland,2005,0.257142857,5,Europe,Developing,High income
+Poland,2008,0.215384615,5,Europe,Developing,High income
+Poland,2010,0.290909091,5,Europe,Developing,High income
+Poland,2012,0.443243243,5,Europe,Developing,High income
+Poland,2016,0.48,5,Europe,Developing,High income
+Poland,2017,0.411764706,5,Europe,Developing,High income
+Poland,2020,0.317647059,5,Europe,Developing,High income
+Poland,2021,0.290265487,5,Europe,Developing,High income
+Poland,2022,0.416806723,5,Europe,Developing,High income
+Poland,2023,0.256551724,5,Europe,Developing,High income
+Poland,2024,0.234636872,5,Europe,Developing,High income
+Portugal,2013,0.4,5,Europe,Developing,High income
+Portugal,2014,0.454545455,5,Europe,Developing,High income
+Portugal,2015,0.376470588,5,Europe,Developing,High income
+Portugal,2018,0.4,5,Europe,Developing,High income
+Portugal,2019,0.3,5,Europe,Developing,High income
+Portugal,2020,0.465116279,5,Europe,Developing,High income
+Portugal,2021,0.16,5,Europe,Developing,High income
+Portugal,2022,0.289795918,5,Europe,Developing,High income
+Portugal,2023,0.249541284,5,Europe,Developing,High income
+Portugal,2024,0.276106195,5,Europe,Developing,High income
+Qatar,2021,0.222222222,5,Asia,Developing,High income
+Qatar,2022,0.233333333,5,Asia,Developing,High income
+Qatar,2023,0.476923077,5,Asia,Developing,High income
+Qatar,2024,0.476923077,5,Asia,Developing,High income
+Romania,2019,0.375,5,Europe,Developing,High income
+Romania,2020,0.283333333,5,Europe,Developing,High income
+Romania,2021,0.275,5,Europe,Developing,High income
+Romania,2022,0.4,5,Europe,Developing,High income
+Romania,2023,0.408510638,5,Europe,Developing,High income
+Romania,2024,0.348148148,5,Europe,Developing,High income
+Russia,2002,0.28,5,Europe,Developing,High income
+Russia,2014,0.3,5,Europe,Developing,High income
+Russia,2015,0.416,5,Europe,Developing,High income
+Russia,2018,0.24,5,Europe,Developing,High income
+Russia,2019,0.23255814,5,Europe,Developing,High income
+Russia,2020,0.220895522,5,Europe,Developing,High income
+Russia,2021,0.214634146,5,Europe,Developing,High income
+Russia,2022,0.29261745,5,Europe,Developing,High income
+Russia,2023,0.273053892,5,Europe,Developing,High income
+Russia,2024,0.287684729,5,Europe,Developing,High income
+Saudi Arabia,2018,0.338461538,5,Asia,Developing,High income
+Saudi Arabia,2019,0.325581395,5,Asia,Developing,High income
+Saudi Arabia,2020,0.314754098,5,Asia,Developing,High income
+Saudi Arabia,2021,0.277894737,5,Asia,Developing,High income
+Saudi Arabia,2022,0.296491228,5,Asia,Developing,High income
+Saudi Arabia,2023,0.261313869,5,Asia,Developing,High income
+Saudi Arabia,2024,0.283453237,5,Asia,Developing,High income
+Serbia,2019,0.288888889,5,Europe,Developing,Upper middle income
+Serbia,2021,0.448,5,Europe,Developing,Upper middle income
+Serbia,2023,0.341176471,5,Europe,Developing,Upper middle income
+Serbia,2024,0.331428571,5,Europe,Developing,Upper middle income
+Singapore,2006,0.425,5,Asia,Developed,High income
+Singapore,2013,0.222222222,5,Asia,Developed,High income
+Singapore,2017,0.338461538,5,Asia,Developed,High income
+Singapore,2018,0.293333333,5,Asia,Developed,High income
+Singapore,2019,0.111627907,5,Asia,Developed,High income
+Singapore,2020,0.234782609,5,Asia,Developed,High income
+Singapore,2021,0.302857143,5,Asia,Developed,High income
+Singapore,2022,0.284684685,5,Asia,Developed,High income
+Singapore,2023,0.252427184,5,Asia,Developed,High income
+Singapore,2024,0.334328358,5,Asia,Developed,High income
+Slovakia,2022,0.266666667,5,Europe,Developing,High income
+Slovenia,2019,0.36,5,Europe,Developing,High income
+Slovenia,2022,0.34,5,Europe,Developing,High income
+Slovenia,2023,0.295652174,5,Europe,Developing,High income
+Slovenia,2024,0.415384615,5,Europe,Developing,High income
+South Africa,2015,0.5625,5,Africa,Developing,Upper middle income
+South Africa,2020,0.540350877,5,Africa,Developing,Upper middle income
+South Africa,2021,0.533333333,5,Africa,Developing,Upper middle income
+South Africa,2022,0.519148936,5,Africa,Developing,Upper middle income
+South Africa,2023,0.465822785,5,Africa,Developing,Upper middle income
+South Africa,2024,0.521568627,5,Africa,Developing,Upper middle income
+Spain,2001,0.486956522,5,Europe,Developed,High income
+Spain,2002,0.426666667,5,Europe,Developed,High income
+Spain,2004,0.3625,5,Europe,Developed,High income
+Spain,2006,0.38,5,Europe,Developed,High income
+Spain,2008,0.427777778,5,Europe,Developed,High income
+Spain,2009,0.46779661,5,Europe,Developed,High income
+Spain,2010,0.45,5,Europe,Developed,High income
+Spain,2011,0.452173913,5,Europe,Developed,High income
+Spain,2012,0.474666667,5,Europe,Developed,High income
+Spain,2013,0.42,5,Europe,Developed,High income
+Spain,2014,0.377142857,5,Europe,Developed,High income
+Spain,2015,0.358139535,5,Europe,Developed,High income
+Spain,2016,0.482191781,5,Europe,Developed,High income
+Spain,2017,0.382857143,5,Europe,Developed,High income
+Spain,2018,0.275862069,5,Europe,Developed,High income
+Spain,2019,0.349206349,5,Europe,Developed,High income
+Spain,2020,0.296446701,5,Europe,Developed,High income
+Spain,2021,0.204946996,5,Europe,Developed,High income
+Spain,2022,0.299665552,5,Europe,Developed,High income
+Spain,2023,0.223145401,5,Europe,Developed,High income
+Spain,2024,0.21216545,5,Europe,Developed,High income
+Sweden,2004,0.3,5,Europe,Developed,High income
+Sweden,2011,0.311111111,5,Europe,Developed,High income
+Sweden,2012,0.342857143,5,Europe,Developed,High income
+Sweden,2018,0.248648649,5,Europe,Developed,High income
+Sweden,2019,0.297674419,5,Europe,Developed,High income
+Sweden,2020,0.305084746,5,Europe,Developed,High income
+Sweden,2021,0.295495495,5,Europe,Developed,High income
+Sweden,2022,0.282828283,5,Europe,Developed,High income
+Sweden,2023,0.284615385,5,Europe,Developed,High income
+Sweden,2024,0.290140845,5,Europe,Developed,High income
+Switzerland,2009,0.266666667,5,Europe,Developed,High income
+Switzerland,2010,0.293333333,5,Europe,Developed,High income
+Switzerland,2013,0.355555556,5,Europe,Developed,High income
+Switzerland,2015,0.412121212,5,Europe,Developed,High income
+Switzerland,2017,0.313513514,5,Europe,Developed,High income
+Switzerland,2018,0.278571429,5,Europe,Developed,High income
+Switzerland,2019,0.274418605,5,Europe,Developed,High income
+Switzerland,2020,0.208955224,5,Europe,Developed,High income
+Switzerland,2021,0.219047619,5,Europe,Developed,High income
+Switzerland,2022,0.190954774,5,Europe,Developed,High income
+Switzerland,2023,0.193607306,5,Europe,Developed,High income
+Switzerland,2024,0.197183099,5,Europe,Developed,High income
+Thailand,2020,0.452173913,5,Asia,Developing,Upper middle income
+Thailand,2021,0.392727273,5,Asia,Developing,Upper middle income
+Thailand,2022,0.333333333,5,Asia,Developing,Upper middle income
+Thailand,2023,0.337662338,5,Asia,Developing,Upper middle income
+Thailand,2024,0.307070707,5,Asia,Developing,Upper middle income
+Tunisia,2022,0.528,5,Africa,Developing,Lower middle income
+Tunisia,2023,0.5,5,Africa,Developing,Lower middle income
+Tunisia,2024,0.3,5,Africa,Developing,Lower middle income
+Turkey,2008,0.517073171,5,Asia,Developing,Upper middle income
+Turkey,2009,0.535483871,5,Asia,Developing,Upper middle income
+Turkey,2010,0.447619048,5,Asia,Developing,Upper middle income
+Turkey,2011,0.513043478,5,Asia,Developing,Upper middle income
+Turkey,2012,0.530612245,5,Asia,Developing,Upper middle income
+Turkey,2013,0.495652174,5,Asia,Developing,Upper middle income
+Turkey,2014,0.50212766,5,Asia,Developing,Upper middle income
+Turkey,2016,0.54,5,Asia,Developing,Upper middle income
+Turkey,2017,0.519148936,5,Asia,Developing,Upper middle income
+Turkey,2018,0.5,5,Asia,Developing,Upper middle income
+Turkey,2019,0.435164835,5,Asia,Developing,Upper middle income
+Turkey,2020,0.421238938,5,Asia,Developing,Upper middle income
+Turkey,2021,0.3968,5,Asia,Developing,Upper middle income
+Turkey,2022,0.393103448,5,Asia,Developing,Upper middle income
+Turkey,2023,0.463636364,5,Asia,Developing,Upper middle income
+Turkiye,2023,0.383703704,5,Asia,Developing,Upper middle income
+Turkiye,2024,0.346285714,5,Asia,Developing,Upper middle income
+Ukraine,2024,0.4,5,Europe,Developing,Upper middle income
+United Arab Emirates,2019,0.2,5,Asia,Developing,High income
+United Arab Emirates,2021,0.188235294,5,Asia,Developing,High income
+United Arab Emirates,2022,0.38974359,5,Asia,Developing,High income
+United Arab Emirates,2023,0.17037037,5,Asia,Developing,High income
+United Arab Emirates,2024,0.184,5,Asia,Developing,High income
+United Kingdom,1998,0.4,5,Europe,Developed,High income
+United Kingdom,1999,0.325,5,Europe,Developed,High income
+United Kingdom,2000,0.368,5,Europe,Developed,High income
+United Kingdom,2001,0.205128205,5,Europe,Developed,High income
+United Kingdom,2002,0.3375,5,Europe,Developed,High income
+United Kingdom,2003,0.411111111,5,Europe,Developed,High income
+United Kingdom,2005,0.345945946,5,Europe,Developed,High income
+United Kingdom,2006,0.318367347,5,Europe,Developed,High income
+United Kingdom,2007,0.345762712,5,Europe,Developed,High income
+United Kingdom,2008,0.29,5,Europe,Developed,High income
+United Kingdom,2009,0.380327869,5,Europe,Developed,High income
+United Kingdom,2010,0.339622642,5,Europe,Developed,High income
+United Kingdom,2011,0.426666667,5,Europe,Developed,High income
+United Kingdom,2012,0.320987654,5,Europe,Developed,High income
+United Kingdom,2013,0.367567568,5,Europe,Developed,High income
+United Kingdom,2014,0.384210526,5,Europe,Developed,High income
+United Kingdom,2015,0.31,5,Europe,Developed,High income
+United Kingdom,2016,0.318918919,5,Europe,Developed,High income
+United Kingdom,2017,0.278431373,5,Europe,Developed,High income
+United Kingdom,2018,0.298591549,5,Europe,Developed,High income
+United Kingdom,2019,0.259259259,5,Europe,Developed,High income
+United Kingdom,2020,0.251558074,5,Europe,Developed,High income
+United Kingdom,2021,0.191,5,Europe,Developed,High income
+United Kingdom,2022,0.205405405,5,Europe,Developed,High income
+United Kingdom,2023,0.234165067,5,Europe,Developed,High income
+United Kingdom,2024,0.212352941,5,Europe,Developed,High income
+United States,1996,0.298666667,5,North America,Developed,High income
+United States,1997,0.385,5,North America,Developed,High income
+United States,1998,0.432142857,5,North America,Developed,High income
+United States,1999,0.359259259,5,North America,Developed,High income
+United States,2000,0.382905983,5,North America,Developed,High income
+United States,2001,0.354054054,5,North America,Developed,High income
+United States,2002,0.306666667,5,North America,Developed,High income
+United States,2003,0.393617021,5,North America,Developed,High income
+United States,2004,0.330275229,5,North America,Developed,High income
+United States,2005,0.334736842,5,North America,Developed,High income
+United States,2006,0.368852459,5,North America,Developed,High income
+United States,2007,0.379916318,5,North America,Developed,High income
+United States,2008,0.392537313,5,North America,Developed,High income
+United States,2009,0.407017544,5,North America,Developed,High income
+United States,2010,0.391519435,5,North America,Developed,High income
+United States,2011,0.416783217,5,North America,Developed,High income
+United States,2012,0.387692308,5,North America,Developed,High income
+United States,2013,0.43963964,5,North America,Developed,High income
+United States,2014,0.449246231,5,North America,Developed,High income
+United States,2015,0.336523929,5,North America,Developed,High income
+United States,2016,0.325764192,5,North America,Developed,High income
+United States,2017,0.322222222,5,North America,Developed,High income
+United States,2018,0.28522848,5,North America,Developed,High income
+United States,2019,0.243589744,5,North America,Developed,High income
+United States,2020,0.207007007,5,North America,Developed,High income
+United States,2021,0.20635514,5,North America,Developed,High income
+United States,2022,0.195411606,5,North America,Developed,High income
+United States,2023,0.209996816,5,North America,Developed,High income
+United States,2024,0.204940158,5,North America,Developed,High income
+Vietnam,2019,0.641269841,5,Asia,Developing,Lower middle income
+Vietnam,2020,0.596666667,5,Asia,Developing,Lower middle income
+Vietnam,2021,0.659340659,5,Asia,Developing,Lower middle income
+Vietnam,2022,0.523076923,5,Asia,Developing,Lower middle income
+Vietnam,2023,0.535135135,5,Asia,Developing,Lower middle income
+Vietnam,2024,0.417699115,5,Asia,Developing,Lower middle income
